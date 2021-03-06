@@ -8,11 +8,10 @@
 		<version>2.4.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.akh</groupId>
-	<artifactId>SpringAPI</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>SpringAPI</name>
-	<description>Demo project for Spring Boot</description>
+	<groupId>com.tutorial</groupId>
+	<artifactId>spring-api</artifactId>
+	<version>0.0.1</version>
+	<name>spring-api</name>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
